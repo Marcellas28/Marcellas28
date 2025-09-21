@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Marcellas Indeje
-- 👀 I’m interested in Front End Development.My passion for coding and web development drives my commitment to creating engaging and accessible digital content. I specialize in HTML, CSS, and JavaScript, designing and implementing user-friendly websites and applications. I enjoy ensuring that every website is accessible across different devices, combining technical precision with creative design to deliver seamless and captivating user experiences.
-- 🌱 I’m currently learning Computer Science at the Cooperative University Of Kenya and doing short courses of Front End Courses.
+- 👀 I’m interested in Front End Development.
+I specialize in developing robust backend systems using .NET Core, with a strong focus on database design and optimization. Experienced in writing efficient SQL queries and managing relational databases with PostgreSQL. Passionate about building scalable, high-performance applications with clean and maintainable code.
+My passion for coding and web development drives my commitment to creating engaging and accessible digital content. I also specialize in HTML, CSS, and JavaScript, designing and implementing user-friendly websites and applications. I enjoy ensuring that every website is accessible across different devices, combining technical precision with creative design to deliver seamless and captivating user experiences.
+- 🌱 I’m Computer Science student at the Cooperative University Of Kenya and doing short courses of Front End Courses.
 - 💞️ I’m looking to collaborate on Github with great developers to sparkle the fire in mr.
 - 📫 How to reach me ...Email : danwits28@gmail.com 
 - 😄 Pronouns: ...am a he
