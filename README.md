@@ -125,7 +125,7 @@
 ### Mr. Onserio {WEB DESIGN}
 > *"The only way to do great work is to love what you do."*
 
-### Mr. Ocholla {PROGRAMMIN FUBDAMENTALS}
+### Mr. Ocholla {PROGRAMMING FUNDAMENTALS}
 > *"Innovation distinguishes between a leader and a follower."*
 
 ### Mr. Murundu {AI & PYTHON}
@@ -134,6 +134,26 @@
 ### Mrs. Everlyn {GRAPHIC DESIGN}
 > *"The future belongs to those who believe in the beauty of their dreams."*
 
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF6B6B&center=true&vCenter=true&width=200&height=50&lines=🎨+Web+Design;💡+Creative+Thinking;✨+UI+Inspiration" alt="Web Design" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=4ECDC4&center=true&vCenter=true&width=200&height=50&lines=💻+Programming;🚀+Innovation;⚡+Code+Wisdom" alt="Programming" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=45B7D1&center=true&vCenter=true&width=200&height=50&lines=🤖+AI+Python;🧠+Machine+Learning;🌟+Future+Tech" alt="AI Python" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=96CEB4&center=true&vCenter=true&width=200&height=50&lines=🎭+Graphic+Design;✨+Visual+Arts;🎨+Creativity" alt="Graphic Design" />
+    </td>
+  </tr>
+</table>
 </div>
 
 </div>
